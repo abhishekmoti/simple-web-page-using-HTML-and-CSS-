@@ -1,0 +1,144 @@
+*body {
+    border-right:2px solid black;
+border-left: 2px solid black;
+border-bottom: 2px solid black;
+
+}
+
+.header {
+    max-height:  50px;
+    min-height: 50px;
+    background-color: #ADE3E6;
+    text-align: center;
+    padding-top: 5px;
+    border-bottom: 3px solid #118A90;
+    border-left: 3px solid #118A90;
+    border-right: 3px solid #118A90;
+}
+.text{
+    padding-top: 10px;
+}
+.button{
+    
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 160px;
+    padding-right: 200px;
+
+}
+.button1{
+    
+    background-color: #6074BC;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: #F8F9FC;
+    border-radius: 5px;
+    height: 35px;
+    float: left;
+    
+}
+.button2{
+ padding-right: 30px;
+    padding-left: 30px;
+    height: 35px;
+    float: right;
+}
+.stylebutton{
+    padding-top: 100px;
+}
+.stylebutton1{
+    border-radius: 5px;
+    padding-left: 50px;
+    float: left;
+    border: 2px solid black;
+    text-align: center;
+
+
+}
+.stylebutton2{
+    border-radius: 5px;
+    padding-right: 50px;
+    float: right;
+    border: 2px solid black;
+    text-align: center;
+}
+.table{
+margin-top: 80px;
+margin-left: 600px;
+}
+.rectangle{
+    width:600px;
+    height:300px;
+    border: 2px solid black;
+    float: right;
+    margin-right: 50px; 
+    position: relative;  
+}
+.innerrectangle{
+    height: 270px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid black;
+    border-right: white;
+    border-bottom: white;
+}
+.fb{
+    height:29px;
+    width:33px;
+    position: absolute;
+}
+.username{
+    margin-top: 20px;
+    margin-left: 25px;
+    position: relative;
+    font-size: 20px;
+}
+.ingestion{
+    position: absolute;
+    background-color: darkblue;
+    color: white;
+    margin-bottom: 2px;
+    margin-right: 452px;
+    margin-top: 199px;
+    width: 226px;
+    height:20px;
+    text-align: center;
+    margin-left: 326px;
+
+    margin-bottom: 2px;
+    margin-right: 5px;
+    margin-top: 25px;
+}
+.innermostrec{
+ height: 70px;
+ width: 375px;
+ float: right;
+ font-size: 20px;
+ margin-top: -37px;
+ margin-right: 5px;
+ border:2px solid black;
+ border-radius: 2px;
+ position: relative;
+}
+.innermostrec .crossbutton1{
+    height: 20px;
+    width: 23px;
+    overflow: auto;
+    
+
+}
+.innermostrec .crossbutton2{
+    height: 30px;
+    width: 33px;
+}
+.innermostrec .alpura{
+margin-top: -22px;
+float: right;
+margin-right: 125px;
+
+}
+.innermostrec .uni{
+    
+    margin-left: 25px;
+    margin-top: 15px;
+}
